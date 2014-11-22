@@ -9,6 +9,7 @@ error.log
 fabfile.py
 rocket.pid
 fir.pem
+config.py
 
 # Mac OS X custom attribute files
 .DS_Store

@@ -38,13 +38,13 @@ body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
 	font-weight:300;
     color: #ffffff;
-	background-color:#ce1126;
+	background-color:#0c4fbd;
 
 }
 
 a {
 	color: #fff;
-	background-color:#860d1a;
+	background-color:rgba(0,0,0,0.3);
 	padding:0.188em;
 	text-decoration: none;
 	-webkit-border-radius: 0.188em;
